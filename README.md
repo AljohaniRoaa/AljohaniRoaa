@@ -14,19 +14,19 @@ I am a **Data Quality & Metadata Specialist** and a Mathematics & Statistics stu
 
 ### 📊 Featured Repositories
 
-#### 1. [Multi-Asset Financial Portfolio Risk-Return Data Pipeline & Validation Framework](https://github.com/AljohaniRoaa/Financial-Portfolio-Analysis)
+#### 1. [Financial-Portfolio-Analysis]
 • **Tech Stack:** SQL Server, Advanced SQL, Power BI
 • **Overview:** Built an end-to-end SQL pipeline to ingest, clean, and validate 40+ years of historical multi-asset market data for asset management auditing.
 • **Data Integrity Actions:** Leveraged complex Common Table Expressions (CTEs) and Window Functions to enforce structural data quality rules, resolve historical gaps, and compute rolling volatility metrics.
 • **Business Impact:** Deployed a highly reliable risk-return dashboard in Power BI, ensuring zero-defect data reporting for executive investment decisions.
 
-#### 2. [Retail Sales & Logistics Data Quality Framework](https://github.com/AljohaniRoaa/Retail-Sales-Analysis)
+#### 2. [Retail-Sales-Analysis]
 • **Tech Stack:** Power BI, SQL, ETL Pipelines
 • **Overview:** An end-to-end analytical and data quality project analyzing 9,000+ supply chain orders to optimize corporate logistics visibility.
 • **Data Integrity Actions:** Mapped comprehensive data profiles and engineered automated validation workflows to eliminate raw data anomalies and inconsistencies.
 • **Business Impact:** Developed custom shipping quality indicators that successfully isolated an 18.25% logistics delay bottleneck for executive resolution.
 
-#### 3. [Mobile Game A/B Testing & High-Integrity Analytics Framework](https://github.com/AljohaniRoaa/Cookie-Cats-AB-Testing)
+#### 3. [Cookie-Cats-AB-Testing]
 • **Tech Stack:** Python (Pandas, NumPy, SciPy)
 • **Overview:** Evaluated experimental testing datasets from 90,000+ players to measure the precise impact of shifting in-game progression gates on long-term user retention.
 • **Data Integrity Actions:** Built a programmatic data cleansing pipeline to detect and isolate extreme behavioral outliers, securing a 47% variance reduction for superior statistical reliability.
@@ -39,6 +39,7 @@ I am a **Data Quality & Metadata Specialist** and a Mathematics & Statistics stu
 I am actively seeking **Data Management Office (DMO)**, **Data Governance**, or **Data Quality Analyst** opportunities in Riyadh where I can help teams align their technical ecosystems with Saudi Vision 2030 data-driven initiatives.
 
 • 💼 [Connect with me on LinkedIn](http://www.linkedin.com/in/roaa25)
+
 • 📧 [Email me](mailto:aljohaniroaawork@gmail.com)
 
 *Let’s build secure, highly governed, and impactful data ecosystems.*
