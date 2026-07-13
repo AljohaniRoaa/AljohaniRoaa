@@ -1,45 +1,115 @@
 # Hello, I'm Roaa 👋
 
-I am a **Data Quality & Metadata Specialist** and a Mathematics & Statistics student dedicated to bridging the gap between raw code, strict data governance, and strategic decision-making. I specialize in establishing data quality frameworks, managing corporate metadata profiles, and deploying high-integrity technical pipelines that ensure enterprise data is compliant, reliable, and secure.
+🎯 **Aspiring Data Management Officer (DMO)** | Data Governance & Data Quality Specialist
+
+I am a Mathematics & Statistics student passionate about building trusted, governed, and high-quality data ecosystems. My interests lie in **Data Governance, Data Quality Management, Metadata Management, and Regulatory Compliance**, with hands-on experience designing data validation frameworks and developing solutions aligned with **Saudi data regulations and Vision 2030 initiatives**.
+
+I believe that effective data management is not only about technology—it's about ensuring that data is reliable, secure, compliant, and capable of driving better decisions.
 
 ---
 
-### 🛠 Core Competencies
+## 🛠 Core Competencies
 
-• **Data Quality & Governance:** Data Governance Principles (NDMO), Data Privacy & Protection (PDPL), Metadata Management & Lineage, Data Profiling, and Data Integrity Frameworks.
-• **Technical Stack:** Advanced SQL (CTEs, Window Functions), Python (Data Cleansing & Validation Pipelines), R (Statistical Modeling), ETL Pipeline Automation, and SQL Server.
-• **Analytics & Business Intelligence:** Power BI, Tableau, Advanced Excel, Custom KPI Development, and Data Modeling.
+### Data Management & Governance
+- Data Governance Frameworks & Operating Models
+- National Data Management Office (NDMO) Principles
+- Personal Data Protection Law (PDPL)
+- Data Quality Management & Data Profiling
+- Metadata Management & Data Lineage
+- Data Classification & Data Standards
+- Data Stewardship & Data Lifecycle Management
+- Data Policies, Controls & Compliance Monitoring
 
----
+### Technical Skills
+- SQL (Advanced Queries, CTEs, Window Functions)
+- Python (Data Quality Automation & Validation)
+- ETL Processes & Data Integration
+- SQL Server
+- R for Statistical Analysis
 
-### 📊 Featured Repositories
-
-#### 1. [Multi-Asset Financial Portfolio Risk-Return Data Pipeline & Validation Framework](https://github.com/AljohaniRoaa/YOUR-REPO-NAME)
-• **Tech Stack:** SQL Server, Advanced SQL, Power BI
-• **Overview:** Built an end-to-end SQL pipeline to ingest, clean, and validate 40+ years of historical multi-asset market data for asset management auditing.
-• **Data Integrity Actions:** Leveraged complex Common Table Expressions (CTEs) and Window Functions to enforce structural data quality rules, resolve historical gaps, and compute rolling volatility metrics.
-• **Business Impact:** Deployed a highly reliable risk-return dashboard in Power BI, ensuring zero-defect data reporting for executive investment decisions.
-
-#### 2. [Retail Sales & Logistics Data Quality Framework](https://github.com/AljohaniRoaa/Retail-Sales-Analysis)
-• **Tech Stack:** Power BI, SQL, ETL Pipelines
-• **Overview:** An end-to-end analytical and data quality project analyzing 9,000+ supply chain orders to optimize corporate logistics visibility.
-• **Data Integrity Actions:** Mapped comprehensive data profiles and engineered automated validation workflows to eliminate raw data anomalies and inconsistencies.
-• **Business Impact:** Developed custom shipping quality indicators that successfully isolated an 18.25% logistics delay bottleneck for executive resolution.
-
-#### 3. [Mobile Game A/B Testing & High-Integrity Analytics Framework](https://github.com/AljohaniRoaa/Cookie-Cats-AB-Testing)
-• **Tech Stack:** Python (Pandas, NumPy, SciPy)
-• **Overview:** Evaluated experimental testing datasets from 90,000+ players to measure the precise impact of shifting in-game progression gates on long-term user retention.
-• **Data Integrity Actions:** Built a programmatic data cleansing pipeline to detect and isolate extreme behavioral outliers, securing a 47% variance reduction for superior statistical reliability.
-• **Business Impact:** Executed a rigorous Chi-Square hypothesis test validating a statistically significant drop in retention (p-value = 0.0016), delivering a highly governed product recommendation to preserve critical revenue streams.
+### Reporting & Analytics
+- Power BI
+- Tableau
+- Advanced Excel
+- KPI Development & Data Modeling
 
 ---
 
-### 📬 Let's Connect
+# 📊 Featured Repositories
 
-I am actively seeking **Data Management Office (DMO)**, **Data Governance**, or **Data Quality Analyst** opportunities in Riyadh where I can help teams align their technical ecosystems with Saudi Vision 2030 data-driven initiatives.
+## 🛡️ SiyajAI – AI-Powered PDPL & NDMO Compliance Assistant
 
-• 💼 [Connect with me on LinkedIn](http://www.linkedin.com/in/roaa25)
+**Tech Stack:** Python, Streamlit, Pandas, NumPy, OpenPyXL
 
-• 📧 [Email me](mailto:aljohaniroaawork@gmail.com)
+Developed an AI-powered compliance assessment platform that helps organizations evaluate their datasets against Saudi regulations, including the **Personal Data Protection Law (PDPL)** and the **NDMO Data Management & Governance Framework**.
 
-*Let’s build secure, highly governed, and impactful data ecosystems.*
+### Key Features
+- 🔍 Automated detection of Personally Identifiable Information (PII), including National IDs, phone numbers, and email addresses.
+- 📋 PDPL compliance assessment framework to identify privacy and regulatory risks.
+- 📊 NDMO governance scorecard with actionable recommendations.
+- 📑 Automated PDF and Excel compliance reports.
+- 🏛️ Reusable framework for Data Governance, Data Classification, and Compliance Monitoring.
+
+### Business Impact
+- Reduced manual compliance assessment efforts.
+- Accelerated the identification of privacy and governance gaps.
+- Demonstrated practical application of Saudi data regulations through an AI-driven solution.
+
+---
+
+## 📈 Multi-Asset Financial Data Quality & Validation Framework
+
+**Tech Stack:** SQL Server, SQL, Power BI
+
+Designed and implemented an end-to-end data pipeline to ingest, clean, and validate more than 40 years of historical market data.
+
+- Automated data quality controls and validation rules.
+- Resolved historical data inconsistencies using advanced SQL.
+- Delivered trusted reporting datasets and executive dashboards.
+
+---
+
+## 🚚 Retail Sales & Logistics Data Quality Framework
+
+**Tech Stack:** SQL, Power BI, ETL Pipelines
+
+Built a comprehensive data quality framework to analyze over 9,000 supply chain orders.
+
+- Conducted data profiling and anomaly detection.
+- Developed automated validation workflows.
+- Created custom quality indicators to improve logistics visibility.
+
+---
+
+## 🎮 Mobile Game Analytics & Data Validation Framework
+
+**Tech Stack:** Python, Pandas, NumPy, SciPy
+
+Developed a high-integrity analytical framework to evaluate experimental datasets from more than 90,000 users.
+
+- Built data cleansing and validation pipelines.
+- Performed statistical quality checks and outlier analysis.
+- Delivered evidence-based recommendations through rigorous analytics.
+
+---
+
+## 🎯 Career Interests
+
+- Data Management Office (DMO)
+- Data Governance
+- Data Quality Management
+- Metadata Management
+- Data Stewardship
+- Data Compliance & Regulatory Governance
+
+---
+
+## 📬 Let's Connect
+
+💼 **LinkedIn:** <http://www.linkedin.com/in/roaa25>
+
+📧 **Email:** <aljohaniroaawork@gmail.com>
+
+---
+
+### Building trusted, governed, and high-value data ecosystems—one dataset at a time. 🚀
