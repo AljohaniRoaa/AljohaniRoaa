@@ -1,115 +1,78 @@
-# Hello, I'm Roaa 👋
+<h1 align="center">Hi, I'm Roaa Aljohani 👋</h1>
+<h3 align="center">Data Governance & Data Quality Specialist | Aspiring Data Management Office (DMO) Professional</h3>
 
-🎯 **Aspiring Data Management Officer (DMO)** | Data Governance & Data Quality Specialist
-
-I am a Mathematics & Statistics student passionate about building trusted, governed, and high-quality data ecosystems. My interests lie in **Data Governance, Data Quality Management, Metadata Management, and Regulatory Compliance**, with hands-on experience designing data validation frameworks and developing solutions aligned with **Saudi data regulations and Vision 2030 initiatives**.
-
-I believe that effective data management is not only about technology—it's about ensuring that data is reliable, secure, compliant, and capable of driving better decisions.
-
----
-
-## 🛠 Core Competencies
-
-### Data Management & Governance
-- Data Governance Frameworks & Operating Models
-- National Data Management Office (NDMO) Principles
-- Personal Data Protection Law (PDPL)
-- Data Quality Management & Data Profiling
-- Metadata Management & Data Lineage
-- Data Classification & Data Standards
-- Data Stewardship & Data Lifecycle Management
-- Data Policies, Controls & Compliance Monitoring
-
-### Technical Skills
-- SQL (Advanced Queries, CTEs, Window Functions)
-- Python (Data Quality Automation & Validation)
-- ETL Processes & Data Integration
-- SQL Server
-- R for Statistical Analysis
-
-### Reporting & Analytics
-- Power BI
-- Tableau
-- Advanced Excel
-- KPI Development & Data Modeling
+<p align="center">
+  <a href="http://www.linkedin.com/in/roaa25"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:aljohaniroaawork@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Location-Riyadh%2C%20Saudi%20Arabia-black?style=flat"/>
+</p>
 
 ---
 
-# 📊 Featured Repositories
+### 🎯 About Me
 
-## 🛡️ SiyajAI – AI-Powered PDPL & NDMO Compliance Assistant
+I'm a Mathematics & Statistics student and **Data Quality Analyst & Metadata Specialist** at the Saudi Translation Association, where I govern metadata profiles for 10,000+ critical data points and maintain a 99% data accuracy rate through automated validation workflows.
 
-**Tech Stack:** Python, Streamlit, Pandas, NumPy, OpenPyXL
+My focus is on building **trusted, governed, and high-quality data ecosystems** — with strong conceptual grounding in **National Data Management Office (NDMO)** guidelines and **Saudi PDPL** compliance standards. I'm working toward a career in Data Governance and Data Management Offices, translating complex technical data structures into business-friendly assets like data catalogs and business glossaries.
 
-Developed an AI-powered compliance assessment platform that helps organizations evaluate their datasets against Saudi regulations, including the **Personal Data Protection Law (PDPL)** and the **NDMO Data Management & Governance Framework**.
-
-### Key Features
-- 🔍 Automated detection of Personally Identifiable Information (PII), including National IDs, phone numbers, and email addresses.
-- 📋 PDPL compliance assessment framework to identify privacy and regulatory risks.
-- 📊 NDMO governance scorecard with actionable recommendations.
-- 📑 Automated PDF and Excel compliance reports.
-- 🏛️ Reusable framework for Data Governance, Data Classification, and Compliance Monitoring.
-
-### Business Impact
-- Reduced manual compliance assessment efforts.
-- Accelerated the identification of privacy and governance gaps.
-- Demonstrated practical application of Saudi data regulations through an AI-driven solution.
+- 🔭 Currently building **SiyajAI**, an AI-powered PDPL & NDMO compliance assistant
+- 🌱 Deepening my skills in Data Governance frameworks, MDM, and data lineage
+- 🎓 B.S. in Mathematics & Statistics, Taibah University (2022 – Present)
+- 📫 Reach me at **aljohaniroaawork@gmail.com**
 
 ---
 
-## 📈 Multi-Asset Financial Data Quality & Validation Framework
+### 🛠 Core Competencies
 
-**Tech Stack:** SQL Server, SQL, Power BI
+**Data Governance & Compliance**
+`Data Governance Frameworks` `NDMO Standards` `Saudi PDPL` `Data Stewardship` `Data Classification` `Policy Enforcement` `Data Privacy`
 
-Designed and implemented an end-to-end data pipeline to ingest, clean, and validate more than 40 years of historical market data.
+**Data Quality & Master Data**
+`Data Profiling` `Data Cleansing` `Data Validation Rules` `MDM` `Reference Data` `Root Cause Analysis` `Golden Record Concepts`
 
-- Automated data quality controls and validation rules.
-- Resolved historical data inconsistencies using advanced SQL.
-- Delivered trusted reporting datasets and executive dashboards.
+**Metadata & Operations**
+`Metadata Management` `Data Lineage` `Data Cataloging` `Business Glossary Development` `Requirements Gathering`
 
----
-
-## 🚚 Retail Sales & Logistics Data Quality Framework
-
-**Tech Stack:** SQL, Power BI, ETL Pipelines
-
-Built a comprehensive data quality framework to analyze over 9,000 supply chain orders.
-
-- Conducted data profiling and anomaly detection.
-- Developed automated validation workflows.
-- Created custom quality indicators to improve logistics visibility.
+**Technical Toolkit**
+`SQL` `SSMS` `Azure Data Studio` `Power BI` `Advanced Excel` `ETL Fundamentals` `Python`
 
 ---
 
-## 🎮 Mobile Game Analytics & Data Validation Framework
+### 📌 Featured Project
 
-**Tech Stack:** Python, Pandas, NumPy, SciPy
+#### 🛡️ [SiyajAI — AI-Powered PDPL & NDMO Compliance Assistant](#)
+`Python` `Streamlit` `Pandas` `NumPy` `OpenPyXL`
 
-Developed a high-integrity analytical framework to evaluate experimental datasets from more than 90,000 users.
+An AI-driven compliance platform that helps organizations assess datasets against **Saudi PDPL** and the **NDMO Data Management & Governance Framework**.
 
-- Built data cleansing and validation pipelines.
-- Performed statistical quality checks and outlier analysis.
-- Delivered evidence-based recommendations through rigorous analytics.
+- 🔍 Automated detection of PII (National IDs, phone numbers, emails)
+- 📋 PDPL compliance assessment engine to flag privacy and regulatory risk
+- 📊 NDMO governance scorecard with actionable recommendations
+- 📑 Automated PDF/Excel compliance reporting
+- 🏛️ Reusable framework for data classification and compliance monitoring
 
----
-
-## 🎯 Career Interests
-
-- Data Management Office (DMO)
-- Data Governance
-- Data Quality Management
-- Metadata Management
-- Data Stewardship
-- Data Compliance & Regulatory Governance
+**Impact:** Cut manual compliance assessment time and demonstrated a practical, AI-driven application of Saudi data regulations end to end.
 
 ---
 
-## 📬 Let's Connect
+### 📈 Other Projects
 
-💼 **LinkedIn:** <http://www.linkedin.com/in/roaa25>
-
-📧 **Email:** <aljohaniroaawork@gmail.com>
+| Project | Stack | Highlight |
+|---|---|---|
+| **Multi-Asset Financial Data Quality & Validation Framework** | SQL Server, SQL, Power BI | Ingested and validated 40+ years of market data into a single source of truth with audited data lineage |
+| **Retail Sales & Logistics Data Quality Framework** | SQL, Power BI, ETL | Profiled 9,000+ orders, built anomaly detection and custom quality indicators, isolating an 18.25% operational bottleneck |
+| **Cookie Cats Mobile Game A/B Testing Analysis** | Python, Pandas, SciPy | Processed 90,000+ player records, reducing variance by 47% to isolate a statistically significant retention effect |
 
 ---
 
-### Building trusted, governed, and high-value data ecosystems—one dataset at a time. 🚀
+### 🏆 Certifications & Leadership
+
+- Google Data Analytics (2026)
+- AI Concepts & Advanced Applications — SDAIA (2025)
+- The Complete SQL Bootcamp — Udemy (2026)
+- Quality Management Basics — Udemy (2025)
+- Media Committee Leader — Cybersecurity Club, Taibah University
+
+---
+
+<p align="center"><i>Building trusted, governed, and high-value data ecosystems — one dataset at a time. 🚀</i></p>
